@@ -4,3 +4,4 @@
 
 [WolfHUD](https://github.com/ShokugekiSama/payday2mods/raw/master/WolfHUD-fix.zip) - fixed
  
+[Qll Paintings Stealable](https://github.com/ShokugekiSama/payday2mods/raw/master/All%20Paintings%20Stealable.zip)
